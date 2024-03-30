@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi This is Zinki 👋
+👨‍🎓 Studied at [KBTC University](https://www.kbtc.edu.mm/)</br>
+👨‍💻 I’m currently working as a Backend Developer
+
+
 
 <!--
 **itsblack-14/itsblack-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
